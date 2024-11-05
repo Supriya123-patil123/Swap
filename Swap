@@ -1,0 +1,11 @@
+a=input("enter a value")
+b=input("enter b value")
+print("a value before swaping",a)
+print("b value before swaping",b)
+c=a
+a=b
+b=c
+print("a value after swaping",a)
+print("b value after swaping",b)
+
+
